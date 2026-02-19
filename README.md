@@ -11,3 +11,5 @@ Timers are prone to desync, making the song and the error boxes desync as well, 
 
 A PC with at least 2.5GHz and 4 cores is recomended, Windows doesn't like window spam a lot
 This probably can be done in a better way and in a real programming language to have it synced with real and propper ways
+
+"Marisa stole the precious thing" is made by IOSYS
