@@ -1,0 +1,1 @@
+e = MsgBox("Made by Geolindrag                                                           Original from Windows 93 by Jankenpopp and Zombectro (https://www.windows93.net/)                                                      Song : Marisa stole the Precious thing by IOSYS",32,"Credits")

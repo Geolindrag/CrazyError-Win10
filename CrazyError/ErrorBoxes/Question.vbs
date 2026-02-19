@@ -1,0 +1,1 @@
+e = MsgBox("Open www.memz.com in internet explorer?",32+4,"Open in...")
